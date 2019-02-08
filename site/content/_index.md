@@ -1,6 +1,6 @@
 ---
-title: Whitesmith
-subtitle: we love the jamstack
+title: Whitesmith Ldta
+subtitle: asdasdasdasdas
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Vamos

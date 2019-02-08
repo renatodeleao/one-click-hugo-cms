@@ -1,6 +1,6 @@
 ---
 title: Whitesmith Corp
-subtitle: we love the jamstack
+subtitle: JAMSTACK FTW
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Vamos

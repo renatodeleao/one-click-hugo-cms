@@ -1,5 +1,5 @@
 ---
-title: Whitesmith
+title: Whitesmith Corp
 subtitle: we love the jamstack
 image: /img/home-jumbotron.jpg
 blurb:

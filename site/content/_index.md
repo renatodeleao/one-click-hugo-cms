@@ -1,6 +1,6 @@
 ---
-title: Whitesmith Corp
-subtitle: JAMSTACK FTW
+title: Whitesmith Ldta
+subtitle: asdasdasdasdas
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Vamos

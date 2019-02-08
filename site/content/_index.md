@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Whitesmith
+subtitle: we love the jamstack
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Vamos
